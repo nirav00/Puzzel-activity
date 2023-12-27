@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1920 1080" width="100%" height="100%" id="root" class="noscript" preserveAspectRatio="xMidYMid meet">
+<svg>
+<!-- <rect xmlns="http://www.w3.org/2000/svg" x="0" y="0" width="1920" height="450" stroke-width="0" fill="red" pointer-events="none"/> -->
+
+<rect xmlns="http://www.w3.org/2000/svg" x="455" y="10" width="270" height="160" stroke="white" stroke-width="2" fill="#f0f8ff2e" rx="5" pointer-events="none" class="hideit" />
+<image href="" id="refranceImg" x="465" y="20" class="hideit" />
+
+<!-- <image href="" id="Optionimage" x="820" y="20"  /> -->
+
+<rect xmlns="http://www.w3.org/2000/svg" x="740" y="10" width="160" height="430" stroke="white" stroke-width="2" fill="#f0f8ff2e" rx="5" pointer-events="none" class="hideit" />
+<svg x="740" y="10" height="429" class="hideit">
+<g id="Optionimage" style="transform:translateY(10px)"> </g>
+</svg>
+
+<svg x="450" y="190" class="hideit">
+
+<svg id="NextBtn">
+  <rect width="50" height="50" rx="50" x="75" y="2" fill="#f0f8ff2e" stroke="white" stroke-width="2" />
+  <g style="transform-origin:center;transform-box:fill-box;transform:rotate(180deg)">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="80" y="7" height="40px" width="40px" version="1.1" id="Layer_1" viewBox="0 0 473.654 473.654" xml:space="preserve">
+<circle style="fill:#49A0AE;" cx="236.827" cy="236.827" r="236.827"/>
+<path style="fill:#FFFFFF;" d="M384.682,216.091c-27.011-27.011-54.018-54.022-81.029-81.033  c-25.56-25.564-65.08,14.259-39.456,39.883c11.009,11.009,22.019,22.019,33.028,33.032c-62.051,0-124.102,0-186.148,0  c-36.225,0-36.543,56.109-0.404,56.109c62.189,0,124.374,0,186.564,0c-11.084,11.084-22.168,22.168-33.252,33.252  c-25.564,25.56,14.259,65.08,39.883,39.456c27.011-27.007,54.018-54.014,81.029-81.025  C395.74,244.916,395.445,226.85,384.682,216.091z"/>
+</svg>
+</g>
+</svg >
+
+<svg id="PrevBtn">
+  <rect width="50" height="50" rx="50" x="145" y="2" fill="#f0f8ff2e" stroke="white" stroke-width="2" />
+  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="150" y="7" height="40px" width="40px" version="1.1" id="Layer_1" viewBox="0 0 473.654 473.654" xml:space="preserve">
+<circle style="fill:#49A0AE;" cx="236.827" cy="236.827" r="236.827"/>
+<path style="fill:#FFFFFF;" d="M384.682,216.091c-27.011-27.011-54.018-54.022-81.029-81.033  c-25.56-25.564-65.08,14.259-39.456,39.883c11.009,11.009,22.019,22.019,33.028,33.032c-62.051,0-124.102,0-186.148,0  c-36.225,0-36.543,56.109-0.404,56.109c62.189,0,124.374,0,186.564,0c-11.084,11.084-22.168,22.168-33.252,33.252  c-25.564,25.56,14.259,65.08,39.883,39.456c27.011-27.007,54.018-54.014,81.029-81.025  C395.74,244.916,395.445,226.85,384.682,216.091z"/>
+</svg>
+</svg>
+
+<svg id="MaxMinScreen">
+<rect width="50" height="50" rx="50" x="215" y="2" fill="#f0f8ff2e" stroke="white" stroke-width="2" />
+<circle style="fill:#49A0AE;" cx="240" cy="27" r="20"/>
+<svg xmlns="http://www.w3.org/2000/svg" x="225" y="12" width="30px" height="30px" viewBox="0 0 24 24" fill="none">
+<path d="M4 1.5C2.61929 1.5 1.5 2.61929 1.5 4V8.5C1.5 9.05228 1.94772 9.5 2.5 9.5H3.5C4.05228 9.5 4.5 9.05228 4.5 8.5V4.5H8.5C9.05228 4.5 9.5 4.05228 9.5 3.5V2.5C9.5 1.94772 9.05228 1.5 8.5 1.5H4Z" fill="#fff"/>
+<path d="M20 1.5C21.3807 1.5 22.5 2.61929 22.5 4V8.5C22.5 9.05228 22.0523 9.5 21.5 9.5H20.5C19.9477 9.5 19.5 9.05228 19.5 8.5V4.5H15.5C14.9477 4.5 14.5 4.05228 14.5 3.5V2.5C14.5 1.94772 14.9477 1.5 15.5 1.5H20Z" fill="#fff"/>
+<path d="M20 22.5C21.3807 22.5 22.5 21.3807 22.5 20V15.5C22.5 14.9477 22.0523 14.5 21.5 14.5H20.5C19.9477 14.5 19.5 14.9477 19.5 15.5V19.5H15.5C14.9477 19.5 14.5 19.9477 14.5 20.5V21.5C14.5 22.0523 14.9477 22.5 15.5 22.5H20Z" fill="#fff"/>
+<path d="M1.5 20C1.5 21.3807 2.61929 22.5 4 22.5H8.5C9.05228 22.5 9.5 22.0523 9.5 21.5V20.5C9.5 19.9477 9.05228 19.5 8.5 19.5H4.5V15.5C4.5 14.9477 4.05228 14.5 3.5 14.5H2.5C1.94772 14.5 1.5 14.9477 1.5 15.5V20Z" fill="#fff"/>
+</svg>
+</svg>
+
+</svg>
+
+
+
+
+  <defs>
+    <g id="ps"></g>
+    <g id="ms"></g>
+    <image id="img" width="1" height="1" pointer-events="none"
+      href="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+    />
+    <filter id="shadow">
+      <feDropShadow dx="2" dy="2" stdDeviation="5" />
+    </filter>
+    <filter id="shadowlower">
+      <feDropShadow dx="1" dy="1" stdDeviation="2" />
+    </filter>
+    <radialGradient id="menufade" cx="0" cy="0" fr="1">
+      <stop offset="0%" stop-color="#FFF0" />
+      <stop offset="100%" stop-color="#FFF8" />
+    </radialGradient>
+    <filter id="bevel" filterUnits="objectBoundingBox" x="-10%" y="-10%" width="150%" height="150%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="3" result="blur" />
+      <feSpecularLighting in="blur" surfaceScale="5" specularConstant="0.5" specularExponent="10" result="specOut" lighting-color="white">
+        <fePointLight x="-5000" y="-10000" z="20000" />
+      </feSpecularLighting>
+      <feComposite in="specOut" in2="SourceAlpha" operator="in" result="specOut2" />
+      <feComposite in="SourceGraphic" in2="specOut2" operator="arithmetic" k1="0" k2="1" k3="1" k4="0" result="litPaint" />
+    </filter>
+
+  </defs>
+  <g transform="translate(10, 10)">
+    <!-- <rect x="-10" y="-30" width="100%" height="100%" fill="url(#wood)" stroke-width="0" /> -->
+    <g id="ins"></g>
+  </g>
+  <g class="ui tl">
+    <g id="hud">
+      <!-- <rect x="0" y="0" width="450" height="30" stroke-width="0" fill="url(#menufade)" pointer-events="none" /> -->
+      <!-- <text id="time" x="10" y="20"></text> -->
+      <!-- <text id="new-game" class="button noscript-hidden" x="100" y="20">New Game</text> -->
+      <!-- <text id="save-game" class="button noscript-hidden" x="200" y="20">Save Progress</text> -->
+      <!-- <text class="noscript-warn" x="70" y="20">Please open in browser to play!</text> -->
+    </g>
+  </g>
+
+  <g class="ui mc">
+    <g id="menu" class="noscript-hidden ">
+      <!-- <rect x="-5000" y="-5000" width="10000" height="10000" fill="#0004" /> -->
+      <!-- <rect x="-160" y="-250" width="320" height="500" rx="10" fill="url(#wood)" filter="url(#shadow)" /> -->
+      <!-- <rect x="-160" y="-250" width="320" height="500" rx="10" fill="#FFF4" stroke-width="0.1" /> -->
+      <foreignObject id="hideitmenu" x="-160" y="-250" width="320" height="500">
+        <body xmlns="http://www.w3.org/1999/xhtml">
+            
+          
+          <form id="menuform">
+
+            <div class="align-center">
+              <label class="button">
+                &lt;Click to Select Image&gt;
+                <input id="image-input" type="file" accept="image/*" />
+              </label>
+            </div>
+
+            <div>
+
+            </div>
+            <div class="align-center">
+              <button type="submit" disabled="disabled">Start Game</button>
+              <button type="reset">Cancel</button>
+            </div>
+          </form>
+          <footer>
+          </footer>
+        </body>
+      </foreignObject>
+    </g>
+  </g>
+
+<svg id="footer" y="450">
+
+<rect x="0" y="355" width="920" height="100" rx="10" fill="#f0f8ff2e" pointer-events="none" stroke="white" stroke-width="2" />
+
+<svg id="ResetImage">
+<rect x="430" y="375" width="60" height="60" rx="60" fill="transparent" pointer-events="none" stroke="white" stroke-width="2" />
+<circle style="fill:#49A0AE;" cx="460" cy="405" r="25"/>
+<svg xmlns="http://www.w3.org/2000/svg" x="435" y="380" xmlns:xlink="http://www.w3.org/1999/xlink" height="50px" width="50px" version="1.1" id="Layer_1" viewBox="0 0 473.677 473.677" xml:space="preserve">
+
+<g>
+	<path style="fill:#FFFFFF;" d="M408.84,164.345c-9.88,0.022-19.756,0.049-29.636,0.075   c-22.217-49.815-65.828-85.797-120.912-94.428c-61.374-9.614-120.115,18.889-155.14,69.036   c-15.557,22.269,21.005,43.121,36.431,21.035c48.039-68.774,150.608-62.559,192.76,4.473c-9.125,0.022-18.253,0.045-27.377,0.067   c-2.554,0.004-4.368,1.144-5.49,2.745c-1.832,1.967-2.532,4.839-0.61,7.816c17.378,26.966,34.759,53.936,52.141,80.902   c2.921,4.532,9.226,4.495,12.12-0.045c17.243-27.052,34.49-54.104,51.733-81.16C417.714,170.388,413.956,164.334,408.84,164.345z"/>
+	<path style="fill:#FFFFFF;" d="M334.479,312.395c-47.665,68.251-149.037,62.657-191.784-2.909   c8.747-0.022,17.494-0.045,26.241-0.067c2.547-0.007,4.357-1.137,5.482-2.734c1.836-1.963,2.539-4.843,0.617-7.827   c-17.374-26.966-34.756-53.94-52.133-80.902c-2.917-4.532-9.226-4.495-12.12,0.045c-17.243,27.052-34.494,54.104-51.741,81.16   c-2.853,4.476,0.905,10.531,6.021,10.519c10.187-0.026,20.369-0.052,30.556-0.079c22.434,48.996,65.663,84.331,120.164,92.869   c61.374,9.614,120.115-18.889,155.132-69.036C386.466,311.157,349.901,290.309,334.479,312.395z"/>
+</g>
+</svg>
+</svg>
+
+</svg>
+
+</svg>
+</svg>
